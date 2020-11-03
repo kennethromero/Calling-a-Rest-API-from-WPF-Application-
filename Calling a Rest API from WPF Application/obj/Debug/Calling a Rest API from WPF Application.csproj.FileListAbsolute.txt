@@ -1,0 +1,20 @@
+C:\Users\Kenneth\Desktop\ict project\projects\Calling a Rest API from WPF Application\Calling a Rest API from WPF Application\bin\Debug\Calling a Rest API from WPF Application.exe.config
+C:\Users\Kenneth\Desktop\ict project\projects\Calling a Rest API from WPF Application\Calling a Rest API from WPF Application\bin\Debug\Calling a Rest API from WPF Application.exe
+C:\Users\Kenneth\Desktop\ict project\projects\Calling a Rest API from WPF Application\Calling a Rest API from WPF Application\bin\Debug\Calling a Rest API from WPF Application.pdb
+C:\Users\Kenneth\Desktop\ict project\projects\Calling a Rest API from WPF Application\Calling a Rest API from WPF Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kenneth\Desktop\ict project\projects\Calling a Rest API from WPF Application\Calling a Rest API from WPF Application\bin\Debug\RestSharp.dll
+C:\Users\Kenneth\Desktop\ict project\projects\Calling a Rest API from WPF Application\Calling a Rest API from WPF Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kenneth\Desktop\ict project\projects\Calling a Rest API from WPF Application\Calling a Rest API from WPF Application\bin\Debug\RestSharp.xml
+C:\Users\Kenneth\Desktop\ict project\projects\Calling a Rest API from WPF Application\Calling a Rest API from WPF Application\obj\Debug\Calling a Rest API from WPF Application.csprojAssemblyReference.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Calling a Rest API from WPF Application\Calling a Rest API from WPF Application\obj\Debug\MainWindow.g.cs
+C:\Users\Kenneth\Desktop\ict project\projects\Calling a Rest API from WPF Application\Calling a Rest API from WPF Application\obj\Debug\App.g.cs
+C:\Users\Kenneth\Desktop\ict project\projects\Calling a Rest API from WPF Application\Calling a Rest API from WPF Application\obj\Debug\Calling a Rest API from WPF Application_MarkupCompile.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Calling a Rest API from WPF Application\Calling a Rest API from WPF Application\obj\Debug\Calling a Rest API from WPF Application_MarkupCompile.lref
+C:\Users\Kenneth\Desktop\ict project\projects\Calling a Rest API from WPF Application\Calling a Rest API from WPF Application\obj\Debug\MainWindow.baml
+C:\Users\Kenneth\Desktop\ict project\projects\Calling a Rest API from WPF Application\Calling a Rest API from WPF Application\obj\Debug\Calling a Rest API from WPF Application.g.resources
+C:\Users\Kenneth\Desktop\ict project\projects\Calling a Rest API from WPF Application\Calling a Rest API from WPF Application\obj\Debug\Calling_a_Rest_API_from_WPF_Application.Properties.Resources.resources
+C:\Users\Kenneth\Desktop\ict project\projects\Calling a Rest API from WPF Application\Calling a Rest API from WPF Application\obj\Debug\Calling a Rest API from WPF Application.csproj.GenerateResource.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Calling a Rest API from WPF Application\Calling a Rest API from WPF Application\obj\Debug\Calling a Rest API from WPF Application.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Calling a Rest API from WPF Application\Calling a Rest API from WPF Application\obj\Debug\Calling a Rest API from WPF Application.csproj.CopyComplete
+C:\Users\Kenneth\Desktop\ict project\projects\Calling a Rest API from WPF Application\Calling a Rest API from WPF Application\obj\Debug\Calling a Rest API from WPF Application.exe
+C:\Users\Kenneth\Desktop\ict project\projects\Calling a Rest API from WPF Application\Calling a Rest API from WPF Application\obj\Debug\Calling a Rest API from WPF Application.pdb
